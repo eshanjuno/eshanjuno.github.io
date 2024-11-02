@@ -322,7 +322,7 @@ body {
 }
 
 .rsvp p {
-  color: var(--clr1);
+  color: black;
 }
 
 .rsvp form label {
