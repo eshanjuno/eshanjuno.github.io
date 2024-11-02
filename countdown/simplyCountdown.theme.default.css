@@ -17,7 +17,7 @@
 .simply-countdown > .simply-section {
   width: 50px;
   height: 50px;
-  padding: 80px;
+  padding: 10px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -32,8 +32,9 @@
 .simply-countdown > .simply-section .simply-word {
   display: block;
   text-align: center;
+  font-size: 1rem;
 }
 
 .simply-countdown > .simply-section .simply-amount {
-  font-size: 1.6rem;
+  font-size: 1.4rem;
 }
